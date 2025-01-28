@@ -17,8 +17,8 @@ Here are some tools and technologies I frequently work with:
 
 ## Projects  
 Here are some of the projects I’ve been working on
-- [**Quantum coinmaster**]([link-to-project](https://github.com/KottenAlin/2d-spel-i-unity-grupp-sebastian))  
-  *A 2D platformer game made in Unity where the time traveling player has to get from a-b as fast possible and collect the necessary coins, while avoiding obstacles and using powerups*
+- [**Quantum coinmaster**](https://github.com/KottenAlin/2d-spel-i-unity-grupp-sebastian)  
+  *A 2D platformer game made in Unity where the time-traveling player has to get from a to b as fast possible and collect the necessary coins while avoiding obstacles and using powerups*
 - [**Neural Network**](https://github.com/KottenAlin/NeuralNetwork)  
   *A project-based un creating a neural network from simple text generation with Pytorch, using a transformer model and Shakespeare literature as data*
 

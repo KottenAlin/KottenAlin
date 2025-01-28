@@ -26,8 +26,8 @@ Here are some of the projects I’ve been working on
 
 ##  GitHub Stats  
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide=prs&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sebastian200&show_icons=true&hide=prs&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sebastian200&layout=compact&theme=radical)
 
 ---
 

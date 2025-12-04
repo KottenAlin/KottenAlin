@@ -17,6 +17,8 @@ Here are some tools and technologies I frequently work with:
 
 ## Projects  
 Here are some of the projects I’ve been working on
+- [**Tic-Tac-Toe Game**](tictactoe.html)  
+  *An interactive Tic-Tac-Toe game built with HTML, CSS, and JavaScript featuring a modern design, win detection, and smooth animations*
 - [**Quantum coinmaster**](https://github.com/KottenAlin/2d-spel-i-unity-grupp-sebastian)  
   *A 2D platformer game made in Unity where the time-traveling player has to get from a to b as fast as possible and collect the necessary coins while avoiding obstacles and using powerups*
 - [**Neural Network**](https://github.com/KottenAlin/NeuralNetwork)  

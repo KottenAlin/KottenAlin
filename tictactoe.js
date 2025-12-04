@@ -3,10 +3,10 @@ let board = ['', '', '', '', '', '', '', '', ''];
 let currentPlayer = 'X';
 let gameActive = true;
 
-// Get DOM elements
-const cells = document.querySelectorAll('.cell');
-const statusDisplay = document.getElementById('status');
-const resetButton = document.getElementById('resetButton');
+// DOM elements (will be initialized after DOM loads)
+let cells;
+let statusDisplay;
+let resetButton;
 
 // Winning combinations
 const winningConditions = [
@@ -22,6 +22,11 @@ const winningConditions = [
 
 // Initialize game
 function initGame() {
+    // Get DOM elements
+    cells = document.querySelectorAll('.cell');
+    statusDisplay = document.getElementById('status');
+    resetButton = document.getElementById('resetButton');
+    
     cells.forEach(cell => {
         cell.addEventListener('click', handleCellClick);
     });
@@ -108,5 +113,9 @@ function resetGame() {
     });
 }
 
-// Start the game
-initGame();
+// Start the game when DOM is ready
+if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initGame);
+} else {
+    initGame();
+}
